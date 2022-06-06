@@ -1,0 +1,42 @@
+.gjs-one-bg {
+    background-color: #FFFF;
+}
+.gjs-one-color {
+    color: #463a3c;
+}
+.gjs-one-color-h:hover {
+    color: #463a3c;
+}
+.gjs-two-bg {
+    background-color:white;
+}
+.gjs-two-color {
+    color: rgb(218, 25, 67);
+}
+.gjs-two-color-h:hover {
+    color: #36285e;
+}
+.gjs-three-bg {
+    background-color: #804f7b;
+}
+.gjs-three-color {
+    color: #804f7b;
+}
+.gjs-three-color-h:hover {
+    color: #dfd684;
+}
+.gjs-four-bg {
+    background-color: #d97aa6;
+}
+.gjs-four-color {
+    color: #d97aa6;
+}
+.gjs-four-color-h:hover {
+    color: #4ceeaa;
+}
+#gjs-clm-tag-label{
+    color: white;
+}
+.gjs-clm-tags #gjs-clm-new{
+    color: rgb(218, 25, 67);
+}
